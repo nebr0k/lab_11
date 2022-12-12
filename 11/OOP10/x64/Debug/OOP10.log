@@ -1,0 +1,8 @@
+﻿  Exponential.cpp
+D:\Wind\OOP\11\OOP10\Exponential.cpp(5,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Wind\OOP\11\OOP10\Exponential.cpp(10,33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Linear.cpp
+  OOP10.cpp
+  Series.cpp
+  Generating Code...
+  OOP10.vcxproj -> D:\Wind\OOP\11\x64\Debug\OOP10.exe
